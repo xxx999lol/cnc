@@ -23,7 +23,7 @@
      },
 
      "Branding" : {
-          "AppName" : "CONDIC2",
+          "AppName" : "Ventox CNC",
           "PrimaryColor" : "38;5;252m",
           "MaxConcurrentsReached" : "Max Running Limit Has Been Reached",
           "OverAllowedTime" : "Request is over your max time limit"
